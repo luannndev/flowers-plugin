@@ -1,0 +1,74 @@
+{
+  "gui.flower.title": "<gradient:#232526:#414345>Flower Creator</gradient>",
+  "gui.brush.title": "<gradient:#232526:#414345>Flower Brush</gradient>",
+
+  "gui.brush.item.display.create": "<gradient:#a8ff78:#78ffd6>Create Brush</gradient>",
+  "gui.brush.item.display.radius": "<gradient:#a8ff78:#78ffd6>Current Radius: %radius%</gradient>",
+  "gui.brush.item.display.air": "<gradient:#a8ff78:#78ffd6>Current Air: %air%</gradient>",
+  "gui.brush.item.display.mask": "<gradient:#a8ff78:#78ffd6>Add material to mask!</gradient>",
+  "gui.brush.item.display.flower": "<gradient:#a8ff78:#78ffd6>Add flower to brush!</gradient>",
+  "gui.brush.item.display.brush": "<gradient:#a8ff78:#78ffd6>ID: %id%</gradient>",
+  "gui.brush.item.display.placeholder": " ",
+  "gui.flower.item.display.candle": "<gradient:#a8ff78:#78ffd6>Candle Collection</gradient>",
+
+  "gui.flower.item.display.placeholder": " ",
+  "gui.flower.item.display.name": "<gradient:#a8ff78:#78ffd6>ID: %id%</gradient>",
+  "gui.flower.item.display.create": "<gradient:#a8ff78:#78ffd6>Create Flower</gradient>",
+  "gui.flower.item.display.back":"<gradient:#a8ff78:#78ffd6>Back to Main-Menu</gradient>",
+  "gui.flower.item.display.delete": "<gradient:#EB3349:#F45C43>Remove all flowers!</gradient>",
+  "gui.flower.item.display.remove": "<gradient:#EB3349:#F45C43>Remove last flower!</gradient>",
+  "gui.flower.item.display.flower": "<gradient:#a8ff78:#78ffd6>%flower%</gradient>",
+  "gui.flower.item.display.randomizer.yes.yes": "<gradient:#a8ff78:#78ffd6>[RANDOMIZER]</gradient> <gradient:#a8ff78:#78ffd6>[GROUP]</gradient>",
+  "gui.flower.item.display.randomizer.yes.no": "<gradient:#a8ff78:#78ffd6>[RANDOMIZER]</gradient> <gradient:#EB3349:#F45C43>[GROUP]</gradient>",
+  "gui.flower.item.display.group.no.yes": "<gradient:#EB3349:#F45C43>[RANDOMIZER]</gradient> <gradient:#a8ff78:#78ffd6>[GROUP]</gradient>",
+  "gui.flower.item.display.group.no.no": "<gradient:#EB3349:#F45C43>[RANDOMIZER]</gradient> <gradient:#EB3349:#F45C43>[GROUP]</gradient>",
+
+  "gui.flower.item.lore.flowers": [
+    " ",
+    "<gray> - shift click to add whole group</gray>",
+    "<gray> - shift + left click to add without</gray> <red>randomizer</red>",
+    "<gray> - shift + right click to add</gray> <green>with randomizer</green>"
+  ],
+
+  "gui.brush.item.mask.lore": [
+    " ",
+    "<gray> | by clicking with a block</gray>",
+    "<gray> | the material will be added to</gray>",
+    "<gray> | the global mask!</gray>"
+  ],
+
+  "gui.brush.item.flower.lore": [
+    " ",
+    "<gray> | by clicking with a flower-item</gray>",
+    "<gray> | the flower will be added to</gray>",
+    "<gray> | the global flower selection!</gray>"
+  ],
+
+  "gui.flower.item.lore.flower": [
+    " ",
+    "<gray> - left click to add without</gray> <red>randomizer</red>",
+    "<gray> - right click to add</gray> <green>with randomizer</green>"
+  ],
+
+  "gui.flower.item.lore.description": [
+    " ",
+    "<gray>This Flower contains:</gray>",
+    " "
+  ],
+
+  "gui.flower.item.lore.placeholder": "<gray> - %flower%",
+
+  "gui.brush.message.create": "<gradient:#a8ff78:#78ffd6>\uD83C\uDF3A Brush has been successfully created!</gradient>",
+  "gui.brush.message.edit": "<gradient:#a8ff78:#78ffd6>\uD83C\uDF3A Brush has been successfully edited!</gradient>",
+  "gui.flower.message.create": "<gradient:#a8ff78:#78ffd6>\uD83C\uDF3A Flower has been successfully created!</gradient>",
+  "gui.flower.message.edit": "<gradient:#a8ff78:#78ffd6>\uD83C\uDF3A Flower has been successfully edited!</gradient>",
+  "gui.flower.message.limit": "<gradient:#EB3349:#F45C43>\uD83C\uDF3A You already reached the maximum amount of flowers!</gradient>",
+
+  "permission.use.error": "<gradient:#EB3349:#F45C43>\uD83C\uDF3A You dont have enough permission to use open the flower-menu!</gradient>",
+  "permission.undo.error": "<gradient:#EB3349:#F45C43>\uD83C\uDF3A You dont have enough permission to use undo flower operations!</gradient>",
+
+  "command.undo.cross": "<gradient:#EB3349:#F45C43>\uD83C\uDF3A To many inputs!</gradient>",
+  "command.undo.nothing": "<gradient:#EB3349:#F45C43>\uD83C\uDF3A The given Player has nothing to undo!</gradient>",
+  "command.undo.wrong.world": "<gradient:#EB3349:#F45C43>\uD83C\uDF3A The world to undo isn't loaded!</gradient>",
+  "command.undo.successful": "<gradient:#a8ff78:#78ffd6>\uD83C\uDF3A Undo successful</gradient>"
+}
